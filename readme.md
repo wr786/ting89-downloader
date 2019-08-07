@@ -12,3 +12,5 @@ __author__:wr786
 4.等待程序自动遍历获取下载链接（因为是动态页面所以我运用了模拟浏览器的方法）
 
 5.在根目录下`output`文件夹里的`link.txt`查收下载链接
+
+6.如果打开发生错误了的话，请把该目录下的chromedriver.exe复制入“C:\Program Files (x86)\Google\Chrome\Application\chromedriver.exe”目录。
